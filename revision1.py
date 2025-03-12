@@ -12,8 +12,8 @@ email_list = df["Email"].dropna().tolist()  # Extract email column and remove Na
 # Email Configuration
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
-EMAIL_SENDER = "onkarpatil272@gmail.com"  # Replace with your email
-EMAIL_PASSWORD = "gmzx sudx sbsf szwy"  # Use an app password
+EMAIL_SENDER = ""  # Replace with your email
+EMAIL_PASSWORD = ""  # Use an app password
 
 # Resume file path (update as necessary)
 resume_path = "C:/Users/onkar/OneDrive/Desktop/Onkar patil resume.pdf"
@@ -37,7 +37,7 @@ Looking forward to your response.
 
 Best Regards,  
 Onkar Patil  
-Contact: +91 8421529035  
+Contact: +91-
 Email: onkarpatil272@gmail.com
 """
     )
