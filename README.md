@@ -6,4 +6,4 @@ Set your Excel file path.
 file name must same as given in the code 
 After in the Excel write "Email" in the 'A1' row. HR emails should be from A2 and A3.
 change the resume path from the code (set your resume path from the local machine )
-Run the code 
+Run the code.
