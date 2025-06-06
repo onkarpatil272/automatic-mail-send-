@@ -1,9 +1,9 @@
 # automatic-mail-send-
 
 Install dependencies. 
-##
+
 Add your email ID to the code.
-##
+
 Add your mail password (go to Manage your Google account and search for "app passwords" to create a new password )
 
 Set your Excel file path.
